@@ -56,6 +56,7 @@
 ---
 
 ### 4. Market Map
+<img width="1432" height="1164" alt="image" src="https://github.com/user-attachments/assets/50a0a9dc-5f48-48a7-860e-fbcb88c3ef4d" />
 
 
 Пустоты или слабые места:
