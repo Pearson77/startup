@@ -15,4 +15,4 @@
 |Практические занятия 1-2|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_1-2.md)|
 |Практические занятия 3-4|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_3-4.md)|
 |Практические занятия 5-6|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_5-6.md)|
-|Практические занятия 5-6|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_7-8.md)|
+|Практические занятия 7-8|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_7-8.md)|
