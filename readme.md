@@ -15,7 +15,9 @@
 ### Практические занятия
 |Номер ПЗ|Ссылка на результат работы|
 |---|---|
-|Практические занятия 1-2|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_1-2.md)|
-|Практические занятия 3-4|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_3-4.md)|
-|Практические занятия 5-6|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_5-6.md)|
-|Практические занятия 7-8|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_7-8.md)|
+|Практические занятия 01-02|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_01-02.md)|
+|Практические занятия 03-04|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_03-04.md)|
+|Практические занятия 05-06|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_05-06.md)|
+|Практические занятия 07-08|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_07-08.md)|
+|Практические занятия 09-10|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_09-10.md)|
+|Практические занятия 11-12|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_11-12.md)|
