@@ -11,3 +11,6 @@
 |Чуркина Анастасия Дмитриевна|Разработчик/Аналитик|
 
 ---
+<img width="1536" height="1024" alt="MVP" src="https://github.com/user-attachments/assets/fdca9b01-fe54-44ce-b96c-180fd6e8a7a0" />
+
+
