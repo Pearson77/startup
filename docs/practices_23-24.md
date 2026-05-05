@@ -164,3 +164,31 @@ Cost-to-duplicate + упрощённый DCF:
 
 Потенциал роста оценки:
 При успешном выполнении плана на 12 месяцев (Base-сценарий: 40–50 клиентов и MRR ~1–1,2 млн ₽) оценка компании может вырасти до 120–220 млн ₽.
+
+
+<img width="2400" height="1350" alt="1_Startap-v-informacionnyh-tehnologiyah" src="https://github.com/user-attachments/assets/e9873b8a-9b93-4b70-b453-801096199b61" />
+
+<img width="2400" height="1350" alt="2_Komanda-proekta" src="https://github.com/user-attachments/assets/708658ab-debe-4630-b059-7c60abe26222" />
+
+<img width="2400" height="1964" alt="3_Pochemu-QA-inzheneram-nuzhen-AI-pomoshnik" src="https://github.com/user-attachments/assets/3093470b-f628-4322-b2fc-23ccb31f8da9" />
+
+<img width="2400" height="1404" alt="4_Yadro-rosta-Product-Led-Growth" src="https://github.com/user-attachments/assets/be9cbf92-50ff-49d1-8a17-d86b0ab5299a" />
+
+<img width="2400" height="1828" alt="5_Strategiya-rosta-kratkosrochnyj-gorizont" src="https://github.com/user-attachments/assets/1f285bbc-d298-4819-94e6-65dbc8ea652f" />
+
+
+<img width="2400" height="3300" alt="6_Strategiya-rosta-srednesrochnyj-gorizont" src="https://github.com/user-attachments/assets/076bbc68-c2fb-4394-a872-4f07386138e2" />
+
+<img width="2400" height="1856" alt="7_Model-monetizacii-i-struktura-rashodov" src="https://github.com/user-attachments/assets/a609b38b-14bc-4662-81f2-24206057721f" />
+
+<img width="2400" height="1412" alt="8_Prognoz-MRR-po-scenariyam-growth-and-profitability" src="https://github.com/user-attachments/assets/d380fd86-6aca-48f4-bf9b-5e283dca9be5" />
+
+<img width="2400" height="1794" alt="9_Analiz-chuvstvitelnosti-chto-esli" src="https://github.com/user-attachments/assets/6e5690e9-bd66-482e-b312-640ab0d1b2db" />
+
+
+<img width="2400" height="3360" alt="10_Chto-sozdayot-cennost-kompanii-v-glazah-investorov" src="https://github.com/user-attachments/assets/66c2fb31-2bdc-4f2d-913f-720533db6562" />
+
+
+
+
+
