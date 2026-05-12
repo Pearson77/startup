@@ -26,3 +26,8 @@
 |Практические занятия 17-18|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_17-18.md)|
 |Практические занятия 19-20|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_19-20.md)|
 |Практические занятия 21-22|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_21-22.md)|
+|Практические занятия 23-24|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_23-24.md)|
+|Практические занятия 25-26|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_25-26.md)|
+|Практические занятия 27-28|[Ссылка](https://github.com/Pearson77/startup/blob/main/docs/practices_27-28.md)|
+|Практические занятия 29-30|Ссылка|
+|Практические занятия 31-32|Ссылка|
