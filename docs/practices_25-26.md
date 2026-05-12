@@ -11,6 +11,8 @@
 |Чуркина Анастасия Дмитриевна|Разработчик/Аналитик|
 
 ---
+####Длинная презентация на 5-10 мин
+---
 
 
 
@@ -45,6 +47,30 @@
 <img width="1280" height="720" alt="Слайд15" src="https://github.com/user-attachments/assets/f9328e39-63d2-4a22-9ee1-c21e3f74866e" />
 ---
 <img width="1280" height="720" alt="Слайд16" src="https://github.com/user-attachments/assets/05223f47-52dc-43bf-a634-c4b4a1be788b" />
+
+---
+#### Коротная презентация на 1-3 мин
+---
+
+<img width="1280" height="720" alt="Слайд1" src="https://github.com/user-attachments/assets/f9f0478f-03d2-4a13-88f4-5b440905bc02" />
+
+<img width="1280" height="720" alt="Слайд2" src="https://github.com/user-attachments/assets/0b8cd281-361c-4728-ad1f-0249efe2e8bd" />
+
+<img width="1280" height="720" alt="Слайд3" src="https://github.com/user-attachments/assets/6454f441-a6f3-40ea-aa73-583c34ba17dd" />
+
+<img width="1280" height="720" alt="Слайд4" src="https://github.com/user-attachments/assets/812fbce6-8694-4be7-942b-5dee405ebe17" />
+
+<img width="1280" height="720" alt="Слайд5" src="https://github.com/user-attachments/assets/f339d6e2-3a07-4d50-8ea9-014431f1efe5" />
+
+<img width="1280" height="720" alt="Слайд6" src="https://github.com/user-attachments/assets/1312d861-5a50-4459-836d-dcd984fe8a00" />
+
+
+
+
+
+
+
+
 
 
 
