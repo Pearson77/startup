@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" role="img" aria-label="APITester">
+    <rect width="32" height="32" rx="7" fill="#0B1220"/>
+    <path d="M11.2 9.6 6.6 16l4.6 6.4" fill="none" stroke="#FFFFFF" stroke-width="2.4"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14.6 17.2 18.2 20.9 25.6 11.6" fill="none" stroke="#22C55E" stroke-width="2.8"
+          stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

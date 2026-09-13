@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1020" width="1600" height="1020"
+     font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
+    <defs>
+        <style>
+            .mono { font-family: JetBrains Mono, Consolas, monospace; }
+            .h { font-size: 15px; font-weight: 600; fill: #6A7688; letter-spacing: 1.2px; }
+            .t { font-size: 17px; fill: #46536A; }
+            .s { font-size: 14px; fill: #6A7688; }
+            .xs { font-size: 12px; fill: #98A3B4; }
+        </style>
+    </defs>
+
+    <rect width="1600" height="1020" fill="#F6F8FA"/>
+
+    <!-- ШАПКА -->
+    <g transform="translate(56 56)">
+        <rect width="48" height="48" rx="11" fill="#0B1220"/>
+        <path d="M16.8 14.4 9.9 24l6.9 9.6" fill="none" stroke="#FFFFFF" stroke-width="3.6"
+              stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M21.9 25.8 27.3 31.35 38.4 17.4" fill="none" stroke="#22C55E" stroke-width="4.2"
+              stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="34" font-size="38" fill="#0B1220" letter-spacing="-1"><tspan class="mono"
+                font-weight="700">API</tspan><tspan font-weight="600">Tester</tspan></text>
+        <text x="64" y="60" class="mono s" fill="#15803D">apitester.ru</text>
+
+        <text x="1488" y="20" text-anchor="end" class="h">BRAND BOARD</text>
+        <text x="1488" y="46" text-anchor="end" class="s">Команда №7 · «Стартап в информационных технологиях»</text>
+        <text x="1488" y="68" text-anchor="end" class="xs">Практические занятия 1–2 · Товарный знак и брендирование</text>
+    </g>
+
+    <line x1="56" y1="152" x2="1544" y2="152" stroke="#E2E7EE" stroke-width="1"/>
+
+    <!-- СЛОГАН -->
+    <g transform="translate(56 200)">
+        <text class="h">СЛОГАН</text>
+        <text y="52" font-size="44" font-weight="600" fill="#0B1220" letter-spacing="-1.2">Проверь API раньше
+            пользователя
+        </text>
+    </g>
+
+    <!-- УТП -->
+    <g transform="translate(56 300)">
+        <rect width="740" height="200" rx="14" fill="#FFFFFF" stroke="#E2E7EE"/>
+        <text x="28" y="42" class="h">УНИКАЛЬНОЕ ТОРГОВОЕ ПРЕДЛОЖЕНИЕ</text>
+        <text x="28" y="76" class="t">Для QA-инженеров и backend-команд, которым нельзя</text>
+        <text x="28" y="102" class="t">выгружать спецификации во внешние сервисы, мы создаём</text>
+        <text x="28" y="128" class="t">платформу APITester: она по OpenAPI-описанию генерирует и</text>
+        <text x="28" y="154" class="t">запускает четыре вида тестов, в отличие от Postman и</text>
+        <text x="28" y="180" class="t">Schemathesis — потому что работает в закрытом контуре.</text>
+    </g>
+
+    <!-- ПОЗИЦИОНИРОВАНИЕ -->
+    <g transform="translate(56 530)">
+        <text class="h">ПОЗИЦИОНИРОВАНИЕ</text>
+        <g transform="translate(0 22)">
+            <rect width="168" height="40" rx="20" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="84" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#46536A">инженерный</text>
+            <rect x="180" width="150" height="40" rx="20" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="255" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#46536A">лаконичный</text>
+            <rect x="342" width="150" height="40" rx="20" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="417" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#46536A">надёжный</text>
+            <rect x="504" width="182" height="40" rx="20" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="595" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#46536A">без лишнего шума</text>
+        </g>
+    </g>
+
+    <!-- ПАЛИТРА -->
+    <g transform="translate(56 636)">
+        <text class="h">ФИРМЕННЫЕ ЦВЕТА</text>
+
+        <g transform="translate(0 22)">
+            <rect width="176" height="104" rx="12" fill="#0B1220"/>
+            <text x="16" y="34" class="mono" font-size="14" font-weight="700" fill="#FFFFFF">#0B1220</text>
+            <text x="16" y="58" font-size="14" fill="#AAB5C6">Ink</text>
+            <text x="16" y="84" class="xs" fill="#8794A8">каркас, текст, шапка</text>
+        </g>
+
+        <g transform="translate(188 22)">
+            <rect width="176" height="104" rx="12" fill="#15803D"/>
+            <text x="16" y="34" class="mono" font-size="14" font-weight="700" fill="#FFFFFF">#15803D</text>
+            <text x="16" y="58" font-size="14" fill="#D6EFDE">Signal Green</text>
+            <text x="16" y="84" class="xs" fill="#BFE3CB">действия, «тест пройден»</text>
+        </g>
+
+        <g transform="translate(376 22)">
+            <rect width="176" height="104" rx="12" fill="#F6F8FA" stroke="#CBD3DE"/>
+            <text x="16" y="34" class="mono" font-size="14" font-weight="700" fill="#0B1220">#F6F8FA</text>
+            <text x="16" y="58" font-size="14" fill="#46536A">Canvas</text>
+            <text x="16" y="84" class="xs">фон интерфейса</text>
+        </g>
+
+        <g transform="translate(564 22)">
+            <rect width="86" height="104" rx="12" fill="#B45309"/>
+            <text x="14" y="34" class="mono" font-size="12" font-weight="700" fill="#FFFFFF">#B45309</text>
+            <text x="14" y="56" class="xs" fill="#FDE9CB">warning</text>
+            <rect x="98" width="86" height="104" rx="12" fill="#C62828"/>
+            <text x="112" y="34" class="mono" font-size="12" font-weight="700" fill="#FFFFFF">#C62828</text>
+            <text x="112" y="56" class="xs" fill="#F8D3D3">error</text>
+        </g>
+
+        <text y="156" class="xs">Два основных цвета плюс нейтральный фон; охра и красный — только для статусов
+            тестов.
+        </text>
+    </g>
+
+    <!-- ТИПОГРАФИКА -->
+    <g transform="translate(56 838)">
+        <text class="h">ШРИФТЫ</text>
+        <g transform="translate(0 22)">
+            <rect width="360" height="126" rx="12" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="20" y="34" font-size="14" font-weight="600" fill="#15803D">IBM Plex Sans</text>
+            <text x="20" y="64" font-size="24" font-weight="600" fill="#0B1220">Заголовки и текст</text>
+            <text x="20" y="92" font-size="15" fill="#46536A">Абвгд Abcde 0123456789</text>
+            <text x="20" y="112" class="xs">400 / 500 / 600 / 700 · кириллица и латиница</text>
+        </g>
+        <g transform="translate(380 22)">
+            <rect width="360" height="126" rx="12" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="20" y="34" font-size="14" font-weight="600" fill="#15803D" class="mono">JetBrains Mono</text>
+            <text x="20" y="64" font-size="22" font-weight="700" fill="#0B1220" class="mono">POST /orders 201</text>
+            <text x="20" y="92" font-size="15" fill="#46536A" class="mono">Абвгд Abcde 0123456789</text>
+            <text x="20" y="112" class="xs">код, метки, цифры, слово API в логотипе</text>
+        </g>
+    </g>
+
+    <!-- ЛОГОТИП: ВАРИАНТЫ -->
+    <g transform="translate(840 200)">
+        <text class="h">ЛОГОТИП</text>
+
+        <g transform="translate(0 22)">
+            <rect width="352" height="128" rx="12" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <g transform="translate(28 46)">
+                <rect width="36" height="36" rx="8" fill="#0B1220"/>
+                <path d="M12.6 10.8 7.4 18l5.2 7.2" fill="none" stroke="#FFFFFF" stroke-width="2.7"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16.4 19.35 20.5 23.5 28.8 13.05" fill="none" stroke="#22C55E" stroke-width="3.15"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <text x="48" y="27" font-size="27" fill="#0B1220"><tspan class="mono" font-weight="700">API</tspan><tspan font-weight="600">Tester</tspan></text>
+            </g>
+            <text x="28" y="34" class="xs">на светлом фоне</text>
+        </g>
+
+        <g transform="translate(372 22)">
+            <rect width="332" height="128" rx="12" fill="#0B1220"/>
+            <g transform="translate(28 46)">
+                <rect width="36" height="36" rx="8" fill="#FFFFFF" fill-opacity="0.12"/>
+                <path d="M12.6 10.8 7.4 18l5.2 7.2" fill="none" stroke="#F2F5F9" stroke-width="2.7"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16.4 19.35 20.5 23.5 28.8 13.05" fill="none" stroke="#22C55E" stroke-width="3.15"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <text x="48" y="27" font-size="27" fill="#F2F5F9"><tspan class="mono" font-weight="700">API</tspan><tspan font-weight="600">Tester</tspan></text>
+            </g>
+            <text x="28" y="34" class="xs" fill="#8794A8">на тёмном фоне</text>
+        </g>
+
+        <g transform="translate(0 172)">
+            <rect width="704" height="112" rx="12" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="28" y="30" class="xs">знак отдельно — 64 / 32 / 16 px</text>
+
+            <g transform="translate(28 42)">
+                <rect width="56" height="56" rx="12" fill="#0B1220"/>
+                <path d="M19.6 16.8 11.55 28l8.05 11.2" fill="none" stroke="#FFFFFF" stroke-width="4.2"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M25.55 30.1 31.85 36.575 44.8 20.3" fill="none" stroke="#22C55E" stroke-width="4.9"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <g transform="translate(108 54)">
+                <rect width="32" height="32" rx="7" fill="#0B1220"/>
+                <path d="M11.2 9.6 6.6 16l4.6 6.4" fill="none" stroke="#FFFFFF" stroke-width="2.4"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M14.6 17.2 18.2 20.9 25.6 11.6" fill="none" stroke="#22C55E" stroke-width="2.8"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <g transform="translate(164 62)">
+                <rect width="16" height="16" rx="3.5" fill="#0B1220"/>
+                <path d="M5.6 4.8 3.3 8l2.3 3.2" fill="none" stroke="#FFFFFF" stroke-width="1.2"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M7.3 8.6 9.1 10.45 12.8 5.8" fill="none" stroke="#22C55E" stroke-width="1.4"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+
+            <text x="212" y="58" class="s">Угловая скобка — код, галочка — пройденная проверка.</text>
+            <text x="212" y="80" class="s">Знак читается в размере иконки вкладки браузера.</text>
+        </g>
+    </g>
+
+    <!-- ПРИМЕНЕНИЕ -->
+    <g transform="translate(840 500)">
+        <text class="h">ПРИМЕРЫ ПРИМЕНЕНИЯ</text>
+
+        <!-- шапка сайта -->
+        <g transform="translate(0 22)">
+            <rect width="704" height="72" rx="12" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <g transform="translate(20 24)">
+                <rect width="24" height="24" rx="5" fill="#0B1220"/>
+                <path d="M8.4 7.2 4.95 12l3.45 4.8" fill="none" stroke="#FFFFFF" stroke-width="1.8"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M10.95 12.9 13.65 15.675 19.2 8.7" fill="none" stroke="#22C55E" stroke-width="2.1"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <text x="34" y="18" font-size="18" fill="#0B1220"><tspan class="mono" font-weight="700">API</tspan><tspan font-weight="600">Tester</tspan></text>
+            </g>
+            <text x="200" y="42" class="s">Виды тестов</text>
+            <text x="300" y="42" class="s">Внедрение</text>
+            <rect x="530" y="20" width="72" height="32" rx="8" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <text x="566" y="41" text-anchor="middle" font-size="13" font-weight="600" fill="#0B1220">Войти</text>
+            <rect x="612" y="20" width="72" height="32" rx="8" fill="#15803D"/>
+            <text x="648" y="41" text-anchor="middle" font-size="13" font-weight="600" fill="#FFFFFF">Заявка</text>
+        </g>
+
+        <!-- визитка -->
+        <g transform="translate(0 200)">
+            <rect width="330" height="190" rx="12" fill="#0B1220"/>
+            <g transform="translate(24 24)">
+                <rect width="28" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.12"/>
+                <path d="M9.8 8.4 5.775 14l4.025 5.6" fill="none" stroke="#F2F5F9" stroke-width="2.1"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M12.775 15.05 15.925 18.3 22.4 10.15" fill="none" stroke="#22C55E" stroke-width="2.45"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <text x="38" y="20" font-size="20" fill="#F2F5F9"><tspan class="mono" font-weight="700">API</tspan><tspan font-weight="600">Tester</tspan></text>
+            </g>
+            <text x="24" y="112" font-size="17" font-weight="600" fill="#F2F5F9">Алехин Михаил</text>
+            <text x="24" y="134" font-size="13" fill="#8794A8">тимлид, разработка платформы</text>
+            <text x="24" y="166" font-size="13" fill="#4ADE80" class="mono">apitester.ru</text>
+        </g>
+
+        <!-- иконка приложения -->
+        <g transform="translate(354 200)">
+            <rect width="164" height="190" rx="12" fill="#FFFFFF" stroke="#E2E7EE"/>
+            <g transform="translate(30 34)">
+                <rect width="104" height="104" rx="24" fill="#0B1220"/>
+                <path d="M36.4 31.2 21.45 52l14.95 20.8" fill="none" stroke="#FFFFFF" stroke-width="7.8"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M47.45 55.9 59.15 67.925 83.2 37.7" fill="none" stroke="#22C55E" stroke-width="9.1"
+                      stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <text x="82" y="164" text-anchor="middle" font-size="13" fill="#46536A">иконка приложения</text>
+        </g>
+
+        <!-- баннер -->
+        <g transform="translate(542 200)">
+            <rect width="162" height="190" rx="12" fill="#15803D"/>
+            <text x="20" y="46" font-size="17" font-weight="600" fill="#FFFFFF">Проверь</text>
+            <text x="20" y="70" font-size="17" font-weight="600" fill="#FFFFFF">API раньше</text>
+            <text x="20" y="94" font-size="17" font-weight="600" fill="#FFFFFF">пользователя</text>
+            <rect x="20" y="120" width="122" height="34" rx="8" fill="#FFFFFF"/>
+            <text x="81" y="142" text-anchor="middle" font-size="13" font-weight="600" fill="#15803D">apitester.ru</text>
+        </g>
+    </g>
+</svg>
