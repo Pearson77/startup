@@ -17,8 +17,8 @@
 |---|---|
 |Практические занятия 01-02|[Ссылка](https://github.com/Pearson77/startup/blob/main/semester_2/practices_01-02.md)|
 |Практические занятия 03-04|[Ссылка](https://github.com/Pearson77/startup/blob/main/semester_2/practices_03-04.md)|
-|Практические занятия 05-06|Ссылка|
-|Практические занятия 07-08|Ссылка|
+|Практические занятия 05-06|[Ссылка](https://github.com/Pearson77/startup/blob/main/semester_2/practices_05-06.md)|
+|Практические занятия 07-08|[Ссылка](https://github.com/Pearson77/startup/blob/main/semester_2/practices_07-08.md)|
 
 ### Практические занятия (предыдущий семестр)
 |Номер ПЗ|Ссылка на результат работы|
