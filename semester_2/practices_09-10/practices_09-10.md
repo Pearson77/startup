@@ -12,4 +12,4 @@
 
 ---
 
-Ссылка на файл с отчетом:
+Ссылка на файл с отчетом: https://docs.google.com/document/d/1AwpfEGd34DUc0l6frb-fM3dY_rKKClAGTZuxbVBJQ9c/edit?usp=sharing
